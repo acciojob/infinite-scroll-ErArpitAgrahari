@@ -1,4 +1,4 @@
-/your code here!
+//your code here!
 // Get the reference to the list element
 const list = document.getElementById('infi-list');
 
@@ -24,4 +24,5 @@ list.addEventListener('scroll', function() {
     addItems();
   }
 });
+
 
